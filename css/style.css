@@ -38,13 +38,13 @@ h3{
 }
 
 main section{
-    border-radius: 5px;
-    padding: 10px;
+    border-radius: 10px;
+    padding: 15px;
     margin: 10px;
     background-color: rgb(225, 225, 225);
 }
 
-.abajo{
+footer section{
     background-color: rgb(63, 63, 186);
     color: white;
     text-align: center;
