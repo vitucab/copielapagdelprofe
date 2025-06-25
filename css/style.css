@@ -3,10 +3,16 @@
     padding: 0;
     font-family: Arial, Helvetica, sans-serif;
 }
-.arriba{
+header{
     background-color: rgb(63, 63, 186);
     padding: 15px 30px;
     color: white;
+}
+
+nav a{
+    color: white;
+    text-decoration: none;
+    margin: 0 5px;
 }
 
 .hero{
@@ -14,18 +20,23 @@
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
-    height: 400px;
+    height: 50vh;
     color: white;
-    display: flex;
     text-align: center;
     justify-content: center;
     align-items: center;
 }
 
+main section{
+    color: rgb(63, 63, 186);
+    font-size: small;
+    border-radius: 5px;
+    background-color: white;
+}
+
 .abajo{
     background-color: rgb(63, 63, 186);
     color: white;
-    display: flex;
     text-align: center;
     justify-content: center;
     align-items: center;
