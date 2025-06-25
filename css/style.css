@@ -27,11 +27,21 @@ nav a{
     align-items: center;
 }
 
-main section{
+h2{
+    padding: 10px;
+    background-color: rgba(225, 225, 225, 0.6);
+}
+
+h3{
     color: rgb(63, 63, 186);
-    font-size: small;
+    font-size: medium;
+}
+
+main section{
     border-radius: 5px;
-    background-color: white;
+    padding: 10px;
+    margin: 10px;
+    background-color: rgb(225, 225, 225);
 }
 
 .abajo{
